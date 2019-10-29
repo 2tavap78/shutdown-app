@@ -1,0 +1,10 @@
+C:\Users\PauloJorge\source\repos\shutdown_timer\shutdown_timer\bin\Debug\shutdown_timer.exe.config
+C:\Users\PauloJorge\source\repos\shutdown_timer\shutdown_timer\bin\Debug\shutdown_timer.exe
+C:\Users\PauloJorge\source\repos\shutdown_timer\shutdown_timer\bin\Debug\shutdown_timer.pdb
+C:\Users\PauloJorge\source\repos\shutdown_timer\shutdown_timer\obj\Debug\shutdown_timer.csprojResolveAssemblyReference.cache
+C:\Users\PauloJorge\source\repos\shutdown_timer\shutdown_timer\obj\Debug\shutdown_timer.Form1.resources
+C:\Users\PauloJorge\source\repos\shutdown_timer\shutdown_timer\obj\Debug\shutdown_timer.Properties.Resources.resources
+C:\Users\PauloJorge\source\repos\shutdown_timer\shutdown_timer\obj\Debug\shutdown_timer.csproj.GenerateResource.Cache
+C:\Users\PauloJorge\source\repos\shutdown_timer\shutdown_timer\obj\Debug\shutdown_timer.csproj.CoreCompileInputs.cache
+C:\Users\PauloJorge\source\repos\shutdown_timer\shutdown_timer\obj\Debug\shutdown_timer.exe
+C:\Users\PauloJorge\source\repos\shutdown_timer\shutdown_timer\obj\Debug\shutdown_timer.pdb
